@@ -2,7 +2,7 @@
 
 int main() {
 	truck t1, t2, t3; //i changed it
-	automobile c;
+	automobile c; //I wannacommentit
 	motorcycle mot[3];
 
 	t1.toSetWheels(18);
