@@ -1,5 +1,4 @@
 ﻿  Main.cpp
-  Functios.cpp
-  Создание кода...
+e:\программы\visual studio15\progs\laba 4.1\laba 4.1\main.cpp(4): warning C4101: t3: неиспользованная локальная переменная
   Laba 4.1.vcxproj -> E:\Программы\Visual Studio15\Progs\Laba 4.1\Debug\Laba 4.1.exe
   Laba 4.1.vcxproj -> E:\Программы\Visual Studio15\Progs\Laba 4.1\Debug\Laba 4.1.pdb (Full PDB)
