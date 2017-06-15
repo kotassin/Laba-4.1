@@ -1,7 +1,7 @@
 #include "Transport.h"
 
 int main() {
-	truck t1, t2;
+	truck t1, t2, t3; //i changed it
 	automobile c;
 	motorcycle mot[3];
 
